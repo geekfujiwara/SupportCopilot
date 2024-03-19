@@ -2,7 +2,7 @@
 問合せすることができるCopilot です。Power Automate によりCopilot Studio のCopilot からDataverse に登録、更新、削除を行うことが出来ます。また、自動的にカテゴリ分類を実施するAI Builder のAIプロンプトのモデルも含まれております。
 
 # リリース
-リリースページからソリューションを取得することが出来ます。
+[リリース](https://github.com/geekfujiwara/SupportCopilot/releases)ページからソリューションを取得することが出来ます。
 
 # 内容
 
