@@ -15,11 +15,39 @@ Copilot により Dataverse に登録、更新、削除を行うことが出来�
 
 ![image](https://github.com/geekfujiwara/SupportCopilot/assets/96101315/3bb58822-4479-488c-beae-a44b570da957)
 
-
+問合せを行うと、その結果として内容やDataverse で自動採番された番号を返します。
 
 ![image](https://github.com/geekfujiwara/SupportCopilot/assets/96101315/8d5db0b1-ba2c-4f9b-9ecf-14ab1bb37cdd)
 
 
-また、自動的にカテゴリ分類を実施するAI Builder のAIプロンプトのモデルも含まれております。
+クラウドフローは以下のようなフローが含まれています。
 
 ![image](https://github.com/geekfujiwara/SupportCopilot/assets/96101315/6a2a52dd-a199-4ac7-81a1-526641bed524)
+
+起票するときのフローは以下のようなフローになっています。
+
+![image](https://github.com/geekfujiwara/SupportCopilot/assets/96101315/c5a90526-d170-48bb-b5b5-3c3c06967e86)
+
+
+起票してみたが、問合せを変更したくなったり、取り消ししたいときの処理を行うフローも用意されており、会話フローに接続されています。
+
+トピック内の会話のフローは以下のようになっています。
+
+![image](https://github.com/geekfujiwara/SupportCopilot/assets/96101315/0f42249a-375c-48b4-a687-8c2e6fb080ae)
+
+アクションに接続されているフローは以下のとおりです。
+
+![image](https://github.com/geekfujiwara/SupportCopilot/assets/96101315/f40120de-cfe2-46a9-a9a4-a334827eb08a)
+
+![image](https://github.com/geekfujiwara/SupportCopilot/assets/96101315/e88b4347-7d1f-46da-972d-a18990a479d7)
+
+
+起票された、あるいは問合せ内容が変更されたときに起動するフローとして、自動的にカテゴリ分類を実施するAI Builder のAIプロンプトが含まれているフローもあります。
+
+![image](https://github.com/geekfujiwara/SupportCopilot/assets/96101315/8acc8312-b071-442b-b5b5-10392ea9fb53)
+
+カテゴリ分類を行うAIプロンプトは以下のようなプロンプトで構成されています。
+
+![image](https://github.com/geekfujiwara/SupportCopilot/assets/96101315/e59f0b4a-639a-4466-babe-ae932ccd5b1d)
+
+
