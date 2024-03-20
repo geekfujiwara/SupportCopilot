@@ -22,7 +22,7 @@ Copilot により Dataverse に登録、更新、削除を行うことが出来�
 
 クラウドフローは以下のようなフローが含まれています。
 
-![image](https://github.com/geekfujiwara/SupportCopilot/assets/96101315/6a2a52dd-a199-4ac7-81a1-526641bed524)
+![image](https://github.com/geekfujiwara/SupportCopilot/assets/96101315/69a569d9-0607-4463-b970-4186e98e432e)
 
 起票するときのフローは以下のようなフローになっています。
 
