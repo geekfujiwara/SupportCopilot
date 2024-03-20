@@ -50,4 +50,7 @@ Copilot により Dataverse に登録、更新、削除を行うことが出来�
 
 ![image](https://github.com/geekfujiwara/SupportCopilot/assets/96101315/e59f0b4a-639a-4466-babe-ae932ccd5b1d)
 
+ビジネスプロセスフローで問合せへの回答を行うことが出来ます。
+
+![image](https://github.com/geekfujiwara/SupportCopilot/assets/96101315/22aec125-bcd2-424f-b7ca-ae5930d77b32)
 
