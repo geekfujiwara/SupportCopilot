@@ -1,15 +1,14 @@
 # SupportCopilot
 問合せすることができるCopilot です。Power Automate によりCopilot Studio のCopilot からDataverse に登録、更新、削除を行うことが出来ます。また、自動的にカテゴリ分類を実施するAI Builder のAIプロンプトのモデルも含まれております。
 
+![image](https://github.com/geekfujiwara/SupportCopilot/assets/96101315/09550b06-f342-41ff-a34e-984fd1c9ca1b)
+
+
 ## 問合せCopilot のデモ
 
 デモ動画を作成しています。以下のようにCopilot とPower Apps を統合的に利用することが出来ます。
 
-
-
 https://github.com/geekfujiwara/SupportCopilot/assets/96101315/143bfca0-e0df-4821-8641-1a5e824600a0
-
-
 
 
 # リリース
