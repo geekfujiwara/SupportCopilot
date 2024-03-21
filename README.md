@@ -13,6 +13,13 @@
 
 https://github.com/geekfujiwara/SupportCopilot/assets/96101315/143bfca0-e0df-4821-8641-1a5e824600a0
 
+
+# 前提条件
+
+* Copilot Studio スタンドアローンライセンスが必要です。
+* Power Apps Premium ライセンスが必要です。
+
+
 # 内容
 
 Power Apps モデル駆動型アプリで問合せを受付、クローズまで管理することが出来ます。
