@@ -16,6 +16,7 @@ https://github.com/geekfujiwara/SupportCopilot/assets/96101315/143bfca0-e0df-482
 
 * Copilot Studio スタンドアローンライセンスが必要です。
 * Power Apps Premium ライセンスが必要です。
+* AI Builder のクレジットが必要です。
 
 
 # 詳細
